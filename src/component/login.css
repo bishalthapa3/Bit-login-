@@ -9,6 +9,7 @@
     justify-content: center;
     align-items: center;
     box-sizing: content-box;
+    background: linear-gradient(to left,aqua ,white);
 }
 
 
